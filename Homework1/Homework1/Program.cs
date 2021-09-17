@@ -62,7 +62,7 @@ namespace Homework1
         //            Console.WriteLine("Enter a number:");
         //            didItWork = int.TryParse(Console.ReadLine(), out numA);
         //        }
-            
+
         //    int numB;
         //    Console.WriteLine("Enter another number:");
         //    didItWork = int.TryParse(Console.ReadLine(), out numB);
@@ -102,6 +102,8 @@ namespace Homework1
         //    long totNum = (long) numA + numB + numC + numD + numE;
         //    Console.WriteLine("The total is: " + totNum);
         //}
+
+        Console.WriteLine(" ");
     }
 
 }
