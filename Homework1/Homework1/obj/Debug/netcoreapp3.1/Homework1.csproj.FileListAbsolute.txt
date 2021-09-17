@@ -1,0 +1,14 @@
+C:\Users\lauren.young\git\homework1\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.exe
+C:\Users\lauren.young\git\homework1\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.deps.json
+C:\Users\lauren.young\git\homework1\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.runtimeconfig.json
+C:\Users\lauren.young\git\homework1\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.runtimeconfig.dev.json
+C:\Users\lauren.young\git\homework1\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.dll
+C:\Users\lauren.young\git\homework1\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.pdb
+C:\Users\lauren.young\git\homework1\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.csproj.AssemblyReference.cache
+C:\Users\lauren.young\git\homework1\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauren.young\git\homework1\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.AssemblyInfoInputs.cache
+C:\Users\lauren.young\git\homework1\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.AssemblyInfo.cs
+C:\Users\lauren.young\git\homework1\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\lauren.young\git\homework1\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.dll
+C:\Users\lauren.young\git\homework1\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.pdb
+C:\Users\lauren.young\git\homework1\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.genruntimeconfig.cache
